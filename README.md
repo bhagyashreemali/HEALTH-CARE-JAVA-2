@@ -144,6 +144,5 @@ This project is built with scalability in mind. Future updates may include:
 
 **Bhagyashree Mali** *Java Developer*
 
-Project Link: [https://github.com/your-username/Hospital-Management-System](https://github.com/your-username/Hospital-Management-System)
-
+Project Link: https://github.com/bhagyashreemali/HEALTH-CARE-JAVA-2
 ---
